@@ -1,0 +1,13 @@
+{
+	"item.computer.name":"Computer",
+	"item.ccadvancedcomputer.name":"Advanced Computer",
+	"item.ccdiskdrive.name":"Disk Drive",
+	"item.ccwirelessmodem.name":"Wireless Modem",
+	"item.ccmonitor.name":"Monitor",
+	"item.ccprinter.name":"Printer",
+	"item.ccadvmonitor.name":"Advanced Monitor",
+	"item.ccdisk.name":"Floppy Disk",
+	"item.ccpagesingle.name":"Printed Page",
+	"item.ccpagemultiple.name":"Printed Pages",
+	"item.ccbook.name":"Printed Book"
+}

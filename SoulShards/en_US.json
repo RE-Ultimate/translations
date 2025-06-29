@@ -1,0 +1,13 @@
+{
+	"enchantment.soulstealer":"Soul Stealer",
+	"tile.cage.name":"Soul Cage",
+	"tile.soulforge.name":"Soul Forge",
+	"tile.soultower.name":"Soul Crystal",
+	"item.vileDust.name":"Vile Dust",
+	"item.corruptedEssence.name":"Corrupted Essence",
+	"item.blankSoulShard.name":"Soul Shard",
+	"item.soulShard.name":"Soul Shard",
+	"item.corruptedIngot.name":"Corrupted Ingot",
+	"item.corruptedFragment.name":"Corrupted Fragment",
+	"item.corruptedSword.name":"Vile Sword"
+}

@@ -1,0 +1,18 @@
+{
+	"itemNetherCoal.name":"Nether Coal Ore",
+	"itemNetherDiamond.name":"Nether Diamond Ore",
+	"itemNetherGold.name":"Nether Gold Ore",
+	"itemNetherIron.name":"Nether Iron Ore",
+	"itemNetherLapis.name":"Nether Lapis Lazuli Ore",
+	"itemNetherRedstone.name":"Nether Redstone Ore",
+	"itemNetherCopper.name":"Nether Copper Ore",
+	"itemNetherTin.name":"Nether Tin Ore",
+	"itemNetherEmerald.name":"Nether Emerald Ore",
+	"itemNetherSilver.name":"Nether Silver Ore",
+	"itemNetherLead.name":"Nether Lead Ore",
+	"itemNetherUranium.name":"Nether Uranium Ore",
+	"itemNetherNikolite.name":"Nether Nikolite Ore",
+	"itemNetherRuby.name":"Nether Ruby Ore",
+	"itemNetherRPEmerald.name":"Nether Green Sapphire Ore",
+	"itemNetherSapphire.name":"Nether Sapphire Ore"
+}

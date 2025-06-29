@@ -1,0 +1,20 @@
+{
+	"tile.Torch Lever.name":"Torch Lever",
+	"tile.One-Way Glass.name":"One-Way Glass",
+	"tile.Camo Gate.name":"Camo Gate",
+	"tile.Camo Gate Extension.name":"Camo Gate Extension",
+	"tile.Secret TrapDoor.name":"Secret TrapDoor",
+	"item.Secret Wooden Door.name":"Secret Wooden Door",
+	"item.Secret Iron Door.name":"Secret Iron Door",
+	"item.Camoflauge Paste.name":"Camoflauge Paste",
+	"tile.Ghost Block.name":"Ghost Block",
+	"tile.Secret Camo Lever.name":"Secret Camo lever",
+	"tile.Secret Camo Redstone.name":"Secret Camo Redstone",
+	"tile.Secret Camo Button.name":"Secret Camo button",
+	"tile.Secret PressurePlate.name":"Secret PressurePlate",
+	"tile.Secret PlayerPlate.name":"Secret PlayerPlate",
+	"tile.Secret Camo Stair.name":"Secret Camo Stair",
+	"tile.Secret Camo Chest.name":"Secret Camo Chest",
+	"container.CamochestDouble":"Hidden Large Chest",
+	"container.Camochest":"Hidden Chest"
+}

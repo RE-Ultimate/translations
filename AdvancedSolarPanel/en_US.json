@@ -1,0 +1,20 @@
+{
+	"blockAdvancedSolarPanel.name":"Advanced Solar Panel",
+	"blockHybridSolarPanel.name":"Hybrid Solar Panel",
+	"blockUltimateSolarPanel.name":"Ultimate Hybrid Solar Panel",
+	"blockQuantumGenerator.name":"Quantum Generator",
+	"item.AdvancedSolarHelmet.name":"Advanced Solar Helmet",
+	"item.HybridSolarHelmet.name":"Hybrid Solar Helmet",
+	"item.UltimateSolarHelmet.name":"Ultimate Solar Helmet",
+	"itemSunnarium.name":"Sunnarium",
+	"itemSunnariumAlloy.name":"Sunnarium Alloy",
+	"itemIrradiantUranium.name":"Irradiant Uranium",
+	"itemEnrichedSunnarium.name":"Enriched Sunnarium",
+	"itemEnrichedSunnariumAlloy.name":"Enriched Sunnarium Alloy",
+	"itemIrradiantGlassPane.name":"Irradiant Glass Pane",
+	"itemIridiumIronPlate.name":"IridiumIron  Plate",
+	"itemReinforcedIridiumIronPlate.name":"Reinforced IridiumIron Plate",
+	"itemIrradiantReinforcedPlate.name":"Irradiant Reinforced Plate",
+	"itemSunnariumPart.name":"Sunnarium part",
+	"ingotIridium.name":"Iridium Ingot"
+}

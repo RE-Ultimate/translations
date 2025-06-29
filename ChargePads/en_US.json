@@ -1,0 +1,22 @@
+{
+	"itemGroup.ChargePads":"Charge Pads",
+	"upgradeKit.CRYSTALIZOR.name":"Crystalizor Upgrade Kit",
+	"upgradeKit.MFS.name":"MFS Unit Upgrade",
+	"upgradeKit.LAPOTRONIC.name":"Lapotronic Upgrade Kit",
+	"upgradeKit.FISSION.name":"Fission Upgrade Kit",
+	"upgradeKit.UNKNOWN.name":"Unknown Upgrade",
+	"upgradeBasicModule.Efficiency.name":"Efficiency Upgrade",
+	"upgradeEmitterModule.DRAIN.name":"Drain Conversion Module",
+	"upgradeEmitterModule.DAMAGE.name":"Damage Conversion Module",
+	"upgradeEmitterModule.ARMOUR_PRIORITY.name":"Armour Priority Module",
+	"upgradeEmitterModule.PROXIMITY.name":"Proximity Booster Module",
+	"upgradeEmitterModule.WIDE_BAND.name":"Wide-Band Booster Module",
+	"upgradeEmitterModule.FIELD_I.name":"Field Expansion Module",
+	"upgradeEmitterModule.FIELD_II.name":"Field Expansion Module",
+	"upgradeEmitterModule.FIELD_III.name":"Field Expansion Module",
+	"upgradeEmitterModule.UNKNOWN.name":"Unknown Module",
+	"chargePadLV.name":"Static Charge Pad",
+	"chargePadMV.name":"Crystalizor Charge Pad",
+	"chargePadHV.name":"Lapotronic Charge Pad",
+	"chargePadEV.name":"Fission Charge Pad"
+}

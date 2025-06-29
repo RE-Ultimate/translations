@@ -1,0 +1,19 @@
+{
+	"IRON.name":"Iron Chest",
+	"GOLD.name":"Gold Chest",
+	"DIAMOND.name":"Diamond Chest",
+	"COPPER.name":"Copper Chest",
+	"SILVER.name":"Silver Chest",
+	"CRYSTAL.name":"Crystal Chest",
+	"OBSIDIAN.name":"Obsidian Chest",
+	"WOOD.name":"",
+	"item.ironGoldUpgrade.name":"Iron to Gold Chest Upgrade",
+	"item.goldDiamondUpgrade.name":"Gold to Diamond Chest Upgrade",
+	"item.copperSilverUpgrade.name":"Copper to Silver Chest Upgrade",
+	"item.silverGoldUpgrade.name":"Silver to Gold Chest Upgrade",
+	"item.copperIronUpgrade.name":"Copper to Iron Chest Upgrade",
+	"item.diamondCrystalUpgrade.name":"Diamond to Crystal Chest Upgrade",
+	"item.woodIronUpgrade.name":"Normal chest to Iron Chest Upgrade",
+	"item.woodCopperUpgrade.name":"Normal chest to Copper Chest Upgrade",
+	"item.diamondObsidianUpgrade.name":"Diamond to Obsidian Chest Upgrade"
+}

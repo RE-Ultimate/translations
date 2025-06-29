@@ -1,0 +1,6 @@
+{
+	"item.component.energyConduit.name":"energyConduit",
+	"item.component.teleportFrame.name":"teleportFrame",
+	"item.component.teleportBase.name":"teleportBase",
+	"item.tool.multimeter.name":"multimeter"
+}

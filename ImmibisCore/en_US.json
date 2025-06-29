@@ -1,0 +1,23 @@
+{
+	"894.0.name":"Buffer",
+	"894.1.name":"Automatic Crafting Table MkII",
+	"894.2.name":"Black Hole Chest",
+	"894.3.name":"Incinerator",
+	"894.4.name":"Duplicator",
+	"894.5.name":"Retrievulator",
+	"894.6.name":"Block breaker",
+	"894.7.name":"Liquid disposer",
+	"894.8.name":"Liquid duplicator",
+	"894.9.name":"Online player detector",
+	"tubestuff.storage.0.name":"Silver Block",
+	"tubestuff.storage.1.name":"Tin Block",
+	"tubestuff.storage.2.name":"Copper Block",
+	"tubestuff.storage.3.name":"Nikolite Block",
+	"tubestuff.storage.4.name":"Coal Block",
+	"tubestuff.storage.5.name":"Redstone Block",
+	"tubestuff.storage.6.name":"Blue Alloy Block",
+	"tubestuff.storage.7.name":"Red Alloy Block",
+	"tubestuff.storage.8.name":"Brass Block",
+	"tubestuff.storage.9.name":"Charcoal Block",
+	"item.tubestuff.uselessItem.name":"Retriever jammer"
+}

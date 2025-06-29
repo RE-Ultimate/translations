@@ -1,0 +1,21 @@
+{
+	"tile.myst.receptacle.name":"Book Receptacle",
+	"tile.myst.unstable.blue.name":"Blue Decay",
+	"tile.myst.unstable.red.name":"Red Decay",
+	"tile.myst.unstable.purple.name":"Purple Decay",
+	"tile.myst.unstable.white.name":"White Decay",
+	"tile.myst.unstable.black.name":"Black Decay",
+	"tile.myst.unstable.name":"Decay Effect",
+	"tile.myst.crystal.name":"Crystal",
+	"tile.myst.lectern.name":"Lectern",
+	"tile.myst.bookstand.name":"Bookstand",
+	"tile.myst.linkmodder.name":"Link Modifier",
+	"tile.myst.bookbinder.name":"Book Binder",
+	"tile.myst.linkportal.name":"Link Portal",
+	"tile.myst.starfissure.name":"Star Fissure",
+	"tile.myst.writingDesk.name":"Writing Desk",
+	"item.myst.liquid.name":"Black Ink",
+	"item.myst.vial.name":"Ink Vial",
+	"itemGroup.mystcraft":"Mystcraft",
+	"itemGroup.mystcraftSymbols":"Mystcraft Symbols"
+}

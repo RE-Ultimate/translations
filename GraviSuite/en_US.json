@@ -1,0 +1,19 @@
+{
+	"itemSuperConductorCover.name":"Superconductor Cover",
+	"itemSuperConductor.name":"Superconductor",
+	"itemCoolingCore.name":"Cooling Core",
+	"itemGravitationEngine.name":"Gravitation Engine",
+	"itemMagnetron.name":"Magnetron",
+	"itemVajraCore.name":"Vajra Core",
+	"itemEngineBoost.name":"Engine Booster",
+	"item.GraviChestPlate.name":"GraviChestPlate",
+	"item.Advanced NanoChestPlate.name":"Advanced NanoChestPlate",
+	"item.UltimateLappack.name":"Ultimate Lappack",
+	"item.UltimateSolarHelmet.name":"Ultimate Solar Helmet",
+	"item.Vajra.name":"Vajra",
+	"item.GraviTool.name":"GraviTool",
+	"item.Advanced Lappack.name":"Advanced Lappack",
+	"item.Advanced Electric Jetpack.name":"Advanced Electric Jetpack",
+	"item.Advanced Diamond Drill.name":"Advanced Diamond Drill",
+	"item.Advanced Chainsaw.name":"Advanced Chainsaw"
+}
