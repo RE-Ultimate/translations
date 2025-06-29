@@ -1,0 +1,18 @@
+{
+	"version.connection_error":"Erreur de connexion vers la version de référence (vérifiez votre connexion internet ?)",
+	"item.miniumStone.name":"Pierre de Minium",
+	"key.extra":"Extra",
+	"version.init_log_message":"Lancement de la vérification de votre version par rapport à cette de reference : ",
+	"tile.calcinator.name":"Calcinateur",
+	"tile.redWaterFlowing.name":"Eau rouge (Ruisselante)",
+	"item.philStone.name":"Pierre Philosophale",
+	"version.uninitialized":"Le lancement de la vérification a échoué",
+	"tile.redWaterStill.name":"Eau rouge (Immobile)",
+	"version.outdated":"Vous utilisez une verison obsolète, pensez à effecuter une mise a jour ici - @MOD_UPDATE_LOCATION@",
+	"key.charge":"Charger",
+	"key.release":"Libérer",
+	"version.current":"Vous utilisez la version (@REMOTE_MOD_VERSION@) la plus à jour pour votre version de Minecraft (@MINECRAFT_VERSION)",
+	"item.miniumShard.name":"Eclat de Minium",
+	"version.check_disabled":"Verification de version désactiée",
+	"key.toggle":"Baculer"
+}

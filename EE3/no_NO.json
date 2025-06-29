@@ -1,0 +1,20 @@
+{
+	"version.connection_error":"Misslykkes med å koble til fjernversjonens autoritetsfil (Kontroller internetttilgangen din?)",
+	"item.inertStone.name":"Inert Stein",
+	"item.miniumStone.name":"Mønje Stein",
+	"key.extra":"Ekstra",
+	"version.init_log_message":"Initaliserer versjonskontroll mot fjernversjonens autoritetsfil, plassert i",
+	"tile.calcinator.name":"Kalkbrenner",
+	"tile.redWaterFlowing.name":"Rødt Vann (rennende)",
+	"item.philStone.name":"De Vises Stein",
+	"version.uninitialized":"Versjonkontrollen mislyktes (Versjonkontrollen initaliserte ikke korrekt)",
+	"tile.redWaterStill.name":"Rødt Vann (Stille)",
+	"gui.calcinator.name":"Kalkbrenner",
+	"version.outdated":"Du bruker en utdatert versjon; Vurder å oppdatere her: - @MOD_UPDATE_LOCATION@",
+	"key.charge":"Lad Opp",
+	"key.release":"Slipp løs",
+	"version.current":"Du bruker den mest oppdaterte versjonen for din versjon av Minecraft",
+	"item.miniumShard.name":"Bit av Mønje",
+	"version.check_disabled":"Fjernversjonens versjonsjekk koblet fra, hopper over ",
+	"key.toggle":"Skift"
+}

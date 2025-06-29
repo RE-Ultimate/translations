@@ -1,0 +1,19 @@
+{
+	"version.connection_error":"Chyba při připojování k servru poskytujícímu informace o verzi (je v pořádku vaše připojení k Internetu?)",
+	"item.miniumStone.name":"Kámen suříku",
+	"key.extra":"Extra",
+	"version.init_log_message":"Provádím kontrolu verze, vzdálený soubor umístěn na ",
+	"tile.calcinator.name":"Kalcinátor",
+	"tile.redWaterFlowing.name":"Rudá voda (tekoucí)",
+	"item.philStone.name":"Kámen mudrců",
+	"version.uninitialized":"Kontrola verze neproběhla úspěšně (nezdařila se inicializace)",
+	"tile.redWaterStill.name":"Rudá voda (v klidu)",
+	"gui.calcinator.name":"Kalcinátor",
+	"version.outdated":"Používáte neaktuální verzi; zvažte aktualizaci - @MOD_UPDATE_LOCATION@",
+	"key.charge":"Nabít",
+	"key.release":"Vypustit",
+	"version.current":"Používáte nejaktuálnější verzi, která je pro vaši verzi Minecraftu",
+	"item.miniumShard.name":"Úlomek suříku",
+	"version.check_disabled":"Kontrola verze deaktivována, přeskakuji",
+	"key.toggle":"Přepnout"
+}
