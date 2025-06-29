@@ -1,5 +1,4 @@
 {
-	"version.connection_error":"Erreur de connexion vers la version de référence (vérifiez votre connexion internet ?)",
 	"item.miniumStone.name":"Pierre de Minium",
 	"key.extra":"Extra",
 	"version.init_log_message":"Lancement de la vérification de votre version par rapport à cette de reference : ",
