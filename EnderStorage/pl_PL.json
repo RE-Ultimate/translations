@@ -1,1 +1,5 @@
-{}
+{
+	"tile.enderchest|0.name":"Skrzynia Endu",
+	"tile.enderchest|1.name":"Zbiornik Endu",
+	"item.enderpouch.name":"Sakiewka Endu"
+}

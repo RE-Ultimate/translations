@@ -1,1 +1,13 @@
-{}
+{
+	"item.computer.name":"Komputer",
+	"item.ccadvmonitor.name":"Zaawansowana drukarka",
+	"item.ccadvancedcomputer.name":"Zaawansowany komputer",
+	"item.ccdiskdrive.name":"Stacja dysków",
+	"item.ccwirelessmodem.name":"Modem bezprzewodowy",
+	"item.ccmonitor.name":"Monitor",
+	"item.ccprinter.name":"Drukarka",
+	"item.ccdisk.name":"Dyskietka",
+	"item.ccpagesingle.name":"Zadrukowana kartka",
+	"item.ccbook.name":"Zadrukowana książka",
+	"item.ccpagemultiple.name":"Zadrukowane kartki"
+}
