@@ -1,1 +1,25 @@
-{}
+{
+	"item.PipeItemsBasicLogistics.name":"Podstawowa rura logistyczna",
+	"item.PipeLogisticsChassiMk2.name":"Szkielet logistyczny poziomu 2",
+	"item.PipeItemsRequestLogisticsMk2.name":"Zamawiająca rura logistyczna poziomu 2",
+	"item.PipeItemsRequestLogistics.name":"Zamawiająca rura logistyczna",
+	"item.PipeItemsCraftingLogisticsMk3.name":"Wytwarzająca rura logistyczna poziomu 3",
+	"item.PipeItemsProviderLogistics.name":"Przechowująca rura logistyczna",
+	"item.PipeItemsCraftingLogistics.name":"Wytwarzająca rura logistyczna",
+	"item.PipeItemsSatelliteLogistics.name":"Satelitarna rura logistyczna",
+	"item.PipeItemsSupplierLogistics.name":"Dostarczająca rura logistyczna",
+	"item.PipeLogisticsChassiMk1.name":"Szkielet logistyczny poziomu 1",
+	"item.PipeLogisticsChassiMk3.name":"Szkielet logistyczny poziomu 3",
+	"item.PipeLogisticsChassiMk4.name":"Szkielet logistyczny poziomu 4",
+	"item.PipeLogisticsChassiMk5.name":"Szkielet logistyczny poziomu 5",
+	"item.PipeItemsCraftingLogisticsMk2.name":"Wytwarzająca rura logistyczna poziomu 2",
+	"item.PipeItemsRemoteOrdererLogistics.name":"Rura zamawiająca zdalnie",
+	"item.PipeItemsProviderLogisticsMk2.name":"Przechowująca rura logistyczna poziomu 2",
+	"item.PipeItemsApiaristAnalyser.name":"Rura logistyczna analizująca pszczoły",
+	"item.PipeItemsApiaristSink.name":"Rura logistyczna analizująca pszczoły",
+	"item.PipeItemsFirewall.name":"Bramująca rura logistyczna",
+	"item.PipeItemsBuilderSupplierLogistics.name":"Rura logistyczna zaopatrująca budownik",
+	"item.PipeItemsLiquidSupplier.name":"Rura logistyczna dostarczająca ciecze",
+	"item.LogisticsLiquidConnectorPipe.name":"Rura logistyczna łącząca ciecze",
+	"item.PipeLiquidBasic.name":"Podstawowa rura logistyczna do cieczy"
+}

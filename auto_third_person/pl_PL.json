@@ -1,1 +1,6 @@
-{}
+{
+	"autothirdperson.toggle":"Przełącz automatyczny widok trzeciej osoby",
+	"autothirdperson.disabled":"WYŁĄCZONY",
+	"autothirdperson.enabled":"WŁĄCZONY",
+	"autothirdperson.say_toggle":"Automatyczny widok trzeciej osoby %s"
+}

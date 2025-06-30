@@ -1,1 +1,18 @@
-{}
+{
+	"IRON.name":"Żelazna skrzynia",
+	"CRYSTAL.name":"Kryształowa skrzynia",
+	"item.copperSilverUpgrade.name":"Ulepszenie miedzianej skrzyni na srebrną",
+	"item.woodCopperUpgrade.name":"Ulepszenie skrzyni na miedzianą",
+	"GOLD.name":"Złota skrzynia",
+	"DIAMOND.name":"Diamentowa skrzynia",
+	"COPPER.name":"Miedziana skrzynia",
+	"SILVER.name":"Srebrna skrzynia",
+	"OBSIDIAN.name":"Obsydianowa skrzynia",
+	"item.ironGoldUpgrade.name":"Ulepszenie żelaznej skrzyni na złotą",
+	"item.goldDiamondUpgrade.name":"Ulepszenie złotej skrzyni na diamentową",
+	"item.silverGoldUpgrade.name":"Ulepszenie srebrnej skrzyni na złotą",
+	"item.copperIronUpgrade.name":"Ulepszenie miedzianej skrzyni na żelazną",
+	"item.diamondCrystalUpgrade.name":"Ulepszenie diamentowej skrzyni na kryształową",
+	"item.woodIronUpgrade.name":"Ulepszenie skrzyni na żelazną",
+	"item.diamondObsidianUpgrade.name":"Ulepszenie diamentowej skrzyni na obsydianową"
+}
