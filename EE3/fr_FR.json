@@ -1,7 +1,7 @@
 {
 	"item.miniumStone.name":"Pierre de Minium",
 	"key.extra":"Extra",
-	"version.init_log_message":"Lancement de la vérification de votre version par rapport à cette de reference : ",
+	"version.init_log_message":"Lancement de la vérification de votre version par rapport à cette de reference :",
 	"tile.calcinator.name":"Calcinateur",
 	"tile.redWaterFlowing.name":"Eau rouge (Ruisselante)",
 	"item.philStone.name":"Pierre Philosophale",
