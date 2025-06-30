@@ -1,1 +1,9 @@
-{}
+{
+	"item.GT_Nuggets.18.name":"Aluminium Nugget",
+	"item.GT_Materials.75.name":"Aluminium Plate",
+	"item.GT_Dusts.18.name":"Aluminium Dust",
+	"tile.BlockMetaID_Block.Block_of_Aluminium.name":"Block of Aluminium",
+	"item.GT_Materials.18.name":"Aluminium Ingot",
+	"item.GT_Components.32.name":"Aluminium Machine Hull",
+	"item.GT_SmallDusts.18.name":"Tiny Pile of Aluminium Dust"
+}
