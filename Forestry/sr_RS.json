@@ -1,1 +1,10 @@
-{}
+{
+	"tile.ectoplasm.name":"Ектоплазма",
+	"Water Hive.name":"Водена Кошница",
+	"Rock Hive.name":"Стенска Кошница",
+	"Nether Hive.name":"Недер Кошница",
+	"Marble Hive.name":"Мраморна Кошница",
+	"tile.geneticMachine.name":"Генетска Машина",
+	"tile.advGeneticMachine.name":"Напредна Генетска Машина",
+	"tile.apiaristMachine.name":"Пчеларска Машина"
+}

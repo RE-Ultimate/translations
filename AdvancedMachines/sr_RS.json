@@ -1,1 +1,6 @@
-{}
+{
+	"blockRotaryMacerator.name":"Ротациони Мацератор",
+	"blockSingularityCompressor.name":"Сингуларитетни Kомпресор",
+	"blockCentrifugeExtractor.name":"Центрифугални Eкстрактор",
+	"item.refinedIronDust.name":"пречишћена Гвожђана прашина"
+}

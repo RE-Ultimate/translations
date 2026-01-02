@@ -1,1 +1,6 @@
-{}
+{
+	"item.sniffer.name":"Бежични Трагач",
+	"item.psniffer.name":"Приватни Трагач",
+	"item.wirelessmap.name":"Бежична Мапа",
+	"item.rep.name":"РЕП"
+}

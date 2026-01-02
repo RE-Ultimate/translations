@@ -1,1 +1,6 @@
-{}
+{
+	"autothirdperson.disabled":"ОНЕМОГУЋЕНО",
+	"autothirdperson.enabled":"ОМОГУЋЕНО",
+	"autothirdperson.say_toggle":"Аутоматско Треће Лице %s",
+	"autothirdperson.toggle":"укључи/искључи АутоматскоТрећеЛице"
+}

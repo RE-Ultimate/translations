@@ -1,1 +1,6 @@
-{}
+{
+	"item.component.energyConduit.name":"енергетскиКанал",
+	"item.component.teleportBase.name":"телепортБаза",
+	"item.component.teleportFrame.name":"телепортОквир",
+	"item.tool.multimeter.name":"Мултиметар"
+}

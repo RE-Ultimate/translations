@@ -1,1 +1,5 @@
-{}
+{
+	"tile.enderchest|0.name":"Ендер Ковчег",
+	"tile.enderchest|1.name":"Ендер Резервоар",
+	"item.enderpouch.name":"Ендер Торбица"
+}

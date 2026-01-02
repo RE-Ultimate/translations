@@ -1,1 +1,4 @@
-{}
+{
+	"item.component.energyFrameEmpty.name":"енергетичкиОквирПразан",
+	"item.component.energyFrameFull.name":"енергетичкиОквирПун"
+}

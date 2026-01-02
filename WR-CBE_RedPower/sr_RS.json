@@ -1,1 +1,5 @@
-{}
+{
+	"tile.rprecv.name":"Бежични Пријемник",
+	"tile.rptran.name":"Бежични Предајник",
+	"tile.rpjamm.name":"Бежични Јаммер"
+}
