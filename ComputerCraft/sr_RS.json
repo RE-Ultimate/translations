@@ -1,1 +1,13 @@
-{}
+{
+	"item.computer.name":"Рачунар",
+	"item.ccadvancedcomputer.name":"Напредни Рачунар",
+	"item.ccdiskdrive.name":"Дискетни Погон",
+	"item.ccwirelessmodem.name":"Бежични Модем",
+	"item.ccmonitor.name":"Монитор",
+	"item.ccprinter.name":"Штампач",
+	"item.ccadvmonitor.name":"Напредни Монитор",
+	"item.ccdisk.name":"Флопи Диск",
+	"item.ccpagesingle.name":"Штампана Страница",
+	"item.ccpagemultiple.name":"Штампане Странице",
+	"item.ccbook.name":"Штампана Књига"
+}

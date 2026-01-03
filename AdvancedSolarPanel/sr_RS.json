@@ -1,1 +1,20 @@
-{}
+{
+	"item.UltimateSolarHelmet.name":"Врхунски Соларни Шлем",
+	"ingotIridium.name":"Иридијум Полуга",
+	"itemEnrichedSunnariumAlloy.name":"Обогаћена Сунаријумска Легура",
+	"itemReinforcedIridiumIronPlate.name":"Ојачана Иридијум-Гвоздена Плоча",
+	"blockUltimateSolarPanel.name":"Врхунски Хибридни Соларни Панел",
+	"item.HybridSolarHelmet.name":"Хибридни Соларни Шлем",
+	"blockQuantumGenerator.name":"Квантни Генератор",
+	"item.AdvancedSolarHelmet.name":"Напредни Соларни Шлем",
+	"blockAdvancedSolarPanel.name":"Напредни Соларни Панел",
+	"blockHybridSolarPanel.name":"Хибридни Соларни Панел",
+	"itemEnrichedSunnarium.name":"Обогаћени Сунаријум",
+	"itemIrradiantGlassPane.name":"Зрачећа Стаклена Плоча",
+	"itemSunnarium.name":"Сунаријум",
+	"itemSunnariumAlloy.name":"Сунаријум Легура",
+	"itemIrradiantUranium.name":"Зрачећи Уранијум",
+	"itemIridiumIronPlate.name":"Иридијум-Гвоздена Плоча",
+	"itemIrradiantReinforcedPlate.name":"Зрачећа Ојачана Плоча",
+	"itemSunnariumPart.name":"Сунаријум Део"
+}

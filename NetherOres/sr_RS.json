@@ -1,1 +1,18 @@
-{}
+{
+	"itemNetherIron.name":"Недер Руда Гвожђа",
+	"itemNetherEmerald.name":"Недер Руда Смарагда",
+	"itemNetherRPEmerald.name":"Недер Руда Зелена Сафира",
+	"itemNetherCoal.name":"Недер Руда Угља",
+	"itemNetherUranium.name":"Недер Руда Уранијума",
+	"itemNetherDiamond.name":"Недер Руда Дијаманта",
+	"itemNetherGold.name":"Недер Руда Злата",
+	"itemNetherLapis.name":"Недер Руда Лапис Лазулија",
+	"itemNetherRedstone.name":"Недер Руда Редстуна",
+	"itemNetherCopper.name":"Недер Руда Бакра",
+	"itemNetherTin.name":"Недер Руда Лима",
+	"itemNetherSilver.name":"Недер Руда Сревра",
+	"itemNetherLead.name":"Недер Руда Олова",
+	"itemNetherNikolite.name":"Недер Руда Николита",
+	"itemNetherRuby.name":"Недер Руда Рубина",
+	"itemNetherSapphire.name":"Недер Руда Сафира"
+}

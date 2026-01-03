@@ -1,1 +1,10 @@
-{}
+{
+	"item.retherPearl.name":"РЕтар Бисер",
+	"item.blazeRecieverDish.name":"Огњена Пријемна Антена",
+	"item.obsidianStick.name":"Обсидијански Штап",
+	"death.bolt":"%1$s је ударен РЕтар Громом.",
+	"item.stoneBowl.name":"Камена Чинија",
+	"item.wirelessTransceiver.name":"Бежични Примопредајник",
+	"item.blazeTransceiver.name":"Огњени Примопредајник",
+	"item.recieverDish.name":"Пријемна Антена"
+}

@@ -1,1 +1,20 @@
-{}
+{
+	"tile.Secret Camo Stair.name":"Тајна Камуфлажна Степеница",
+	"tile.Torch Lever.name":"Бакља-Полуга",
+	"tile.Secret Camo Lever.name":"Тајна Камуфлажна Полуга",
+	"tile.Camo Gate Extension.name":"Продужетак Камуфлажне Капије",
+	"tile.One-Way Glass.name":"Једносмјерно Стакло",
+	"tile.Camo Gate.name":"Камуфлажна Капија",
+	"tile.Secret TrapDoor.name":"Тајно Окно",
+	"item.Secret Wooden Door.name":"Тајна Дрвена Врата",
+	"item.Secret Iron Door.name":"Тајна Гвоздена Врата",
+	"item.Camoflauge Paste.name":"Камуфлажна Паста",
+	"tile.Ghost Block.name":"Фантомски Блок",
+	"tile.Secret Camo Redstone.name":"Тајни Камуфлажни Редстоун",
+	"tile.Secret Camo Button.name":"Тајно Камуфлажно Дугме",
+	"tile.Secret PressurePlate.name":"Тајна Потисна Плоча",
+	"tile.Secret PlayerPlate.name":"Тајна Плоча за Играче",
+	"tile.Secret Camo Chest.name":"Тајни Камуфлажни Ковчег",
+	"container.CamochestDouble":"Скривени Велики Ковчег",
+	"container.Camochest":"Скривени Ковчег"
+}

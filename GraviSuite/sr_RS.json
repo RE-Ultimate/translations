@@ -1,1 +1,19 @@
-{}
+{
+	"item.Advanced NanoChestPlate.name":"Напредни НаноНагрудник",
+	"item.Advanced Electric Jetpack.name":"Напредни Електрични Ракетни Појас",
+	"itemSuperConductorCover.name":"Поклопац Суперпроводника",
+	"itemGravitationEngine.name":"Гравитациони Мотор",
+	"itemSuperConductor.name":"Суперпроводник",
+	"itemCoolingCore.name":"Језгро за Хлађење",
+	"itemMagnetron.name":"Магнетрон",
+	"itemVajraCore.name":"Језгро Вајре",
+	"itemEngineBoost.name":"Појачивач Мотора",
+	"item.GraviChestPlate.name":"ГравиНагрудник",
+	"item.UltimateLappack.name":"Врхунски ЛапПанац",
+	"item.UltimateSolarHelmet.name":"Врхунски Соларни Шлем",
+	"item.Vajra.name":"Вајра",
+	"item.GraviTool.name":"ГравиАлат",
+	"item.Advanced Lappack.name":"Напредни ЛапПанац",
+	"item.Advanced Diamond Drill.name":"Напредна Дијамантска Бушилица",
+	"item.Advanced Chainsaw.name":"Напредна Моторна Тестера"
+}

@@ -1,1 +1,21 @@
-{}
+{
+	"tile.myst.unstable.white.name":"Бели Распад",
+	"itemGroup.mystcraft":"Мисткрафт",
+	"tile.myst.receptacle.name":"Простор за Kњиге",
+	"tile.myst.linkmodder.name":"Модификатор Веза",
+	"tile.myst.unstable.blue.name":"Плави Распад",
+	"tile.myst.unstable.red.name":"Црвени Распад",
+	"tile.myst.unstable.purple.name":"Љубичасти Распад",
+	"tile.myst.unstable.black.name":"Црни Распад",
+	"tile.myst.unstable.name":"Ефекат Распадања",
+	"tile.myst.crystal.name":"Кристал",
+	"tile.myst.lectern.name":"Наслон за Читање",
+	"tile.myst.bookstand.name":"Сталак за Књиге",
+	"tile.myst.bookbinder.name":"Повезивач Књига",
+	"tile.myst.linkportal.name":"Везни Портал",
+	"tile.myst.starfissure.name":"Звездана Пукотина",
+	"tile.myst.writingDesk.name":"Писаћи Сто",
+	"item.myst.liquid.name":"Црно Мастило",
+	"item.myst.vial.name":"Бочица са Мастилом",
+	"itemGroup.mystcraftSymbols":"Мисткрафт Симболи"
+}

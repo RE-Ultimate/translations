@@ -1,1 +1,13 @@
-{}
+{
+	"item.corruptedEssence.name":"Корумпирана Есенција",
+	"item.corruptedSword.name":"Гадни Мач",
+	"enchantment.soulstealer":"Крадљивац Душа",
+	"tile.cage.name":"Кавез Душе",
+	"tile.soulforge.name":"Ковачница Душа",
+	"tile.soultower.name":"Душа Кристал",
+	"item.vileDust.name":"Гадна Прашина",
+	"item.blankSoulShard.name":"Крхотина Душе",
+	"item.soulShard.name":"Крхотина Душе",
+	"item.corruptedIngot.name":"Корумпирана Полуга",
+	"item.corruptedFragment.name":"Корумпирани Комадић"
+}

@@ -1,1 +1,18 @@
-{}
+{
+	"item.silverGoldUpgrade.name":"Надоградња Ковчега од Сребра до Злата",
+	"item.copperIronUpgrade.name":"Надоградња Ковчега од Бакра до Гвожђа",
+	"item.diamondCrystalUpgrade.name":"Надоградња Ковчега од Дијаманта до Кристала",
+	"item.woodIronUpgrade.name":"Надоградња Ковчега од Нормалног до Гвожћа",
+	"item.woodCopperUpgrade.name":"Надоградња Ковчега од Нормалног до Бакра",
+	"item.diamondObsidianUpgrade.name":"Надоградња Ковчега од Дијаманта до Обсидијана",
+	"IRON.name":"Гвоздени Ковчег",
+	"GOLD.name":"Златни Ковчег",
+	"DIAMOND.name":"Дијамантски Ковчег",
+	"COPPER.name":"Бакарни Ковчег",
+	"SILVER.name":"Сребрни Ковчег",
+	"CRYSTAL.name":"Кристални Ковчег",
+	"OBSIDIAN.name":"Обсидијанкси Ковчег",
+	"item.ironGoldUpgrade.name":"Надоградња Ковчега од Гвожђа до Злата",
+	"item.goldDiamondUpgrade.name":"Надоградња Ковчега од Злата до Дијаманта",
+	"item.copperSilverUpgrade.name":"Надоградња Ковчега од Бакра до Сребра"
+}
