@@ -1,1 +1,22 @@
-{}
+{
+	"upgradeEmitterModule.DRAIN.name":"Трансформацијски Модул за Исцрпљивање",
+	"chargePadLV.name":"Статичка Подлога за Пуњење",
+	"itemGroup.ChargePads":"Поглоге за Пуњење",
+	"upgradeKit.CRYSTALIZOR.name":"Кристализатор Комплет за Надоградљу",
+	"upgradeEmitterModule.WIDE_BAND.name":"Широкопојасни Модул за Појачавање",
+	"upgradeKit.MFS.name":"Надоградња за МФС Јединицу",
+	"upgradeKit.LAPOTRONIC.name":"Лапотроник Комплет за Надоградњу",
+	"upgradeKit.FISSION.name":"Физијски Комплет за Надоградњу",
+	"upgradeKit.UNKNOWN.name":"Непозната Надоградња",
+	"upgradeBasicModule.Efficiency.name":"Надогадња Ефикасности",
+	"upgradeEmitterModule.ARMOUR_PRIORITY.name":"Приоритетни Модул за Оклоп",
+	"upgradeEmitterModule.PROXIMITY.name":"Проксимални Модул за Појачавање",
+	"upgradeEmitterModule.DAMAGE.name":"Трасформацијски Модул за Прављење Штете",
+	"upgradeEmitterModule.FIELD_I.name":"Модул за Проширење Поља",
+	"upgradeEmitterModule.FIELD_II.name":"Модул за Проширење Поља",
+	"upgradeEmitterModule.FIELD_III.name":"Модул за Проширење Поља",
+	"upgradeEmitterModule.UNKNOWN.name":"Непознати Модул",
+	"chargePadMV.name":"Кристализор Подлога за Пуњење",
+	"chargePadHV.name":"Лапотроник Подлога за Пуњење",
+	"chargePadEV.name":"Физијска Подлога за Пуњење"
+}
