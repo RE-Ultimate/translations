@@ -1,4 +1,27 @@
 {
 	"itemGroup.MMMPowerSuits":"МММ Моћни Оклопи",
-	"item.powerArmorHead.name":"Глава Моћног Оклопа"
+	"item.powerArmorHead.name":"Глава Моћног Оклопа",
+	"item.powerArmorLegs.name":"Ноге Моћног Оклопа",
+	"powerArmorComponent.componentGliderWing.name":"Крило Једрилице",
+	"powerArmorComponent.componentIonThruster.name":"Јонски Мотор",
+	"powerArmorComponent.componentMVCapacitor.name":"Кондензатор Средњег Напона",
+	"powerArmorComponent.componentCarbonMyofiber.name":"Угљенички Миофибрил",
+	"item.powerArmorFeet.name":"Стопала Моћног Оклопа",
+	"item.powerArmorTorso.name":"Труп Моћног Оклопа",
+	"item.powerTool.name":"Моћни Алат",
+	"tile.tinkerTable.name":"Мајсторски Сто Моћног Оклопа",
+	"powerArmorComponent.componentWiring.name":"Жице",
+	"powerArmorComponent.componentSolenoid.name":"Соленоид",
+	"powerArmorComponent.componentServo.name":"Сервомотор",
+	"powerArmorComponent.componentLVCapacitor.name":"Кондензатор Ниског Напона",
+	"powerArmorComponent.componentHVCapacitor.name":"Кондензатор Високог Напона",
+	"powerArmorComponent.componentParachute.name":"Падобран",
+	"powerArmorComponent.componentPlatingBasic.name":"Једноставно Платирање",
+	"powerArmorComponent.componentPlatingAdvanced.name":"Напредно Платирање",
+	"powerArmorComponent.componentFieldEmitter.name":"Емитер Поља Силе",
+	"powerArmorComponent.componentLaserEmitter.name":"Емитер Холограма",
+	"powerArmorComponent.componentControlCircuit.name":"Контролна Шема",
+	"powerArmorComponent.componentMyofiberGel.name":"Миофибрилни Гел",
+	"powerArmorComponent.componentArtificialMuscle.name":"Вештачки Мишић",
+	"powerArmorComponent.componentSolarPanel.name":"Соларни Панел"
 }

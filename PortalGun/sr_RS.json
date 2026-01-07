@@ -1,1 +1,18 @@
-{}
+{
+	"itemGroup.portalgun":"ПорталПушка",
+	"item.PortalGunBlue.name":"Портал Пушка",
+	"item.PortalCube.name":"Пондерисана Коцка за Складиштење",
+	"item.PortalDust.name":"Ендер Бисер Прашина",
+	"item.PortalCCubeD.name":"Вентилацијски отвор за Пондерисану Супутничку Коцку",
+	"item.PortalGunOrange.name":"Портал Пушка",
+	"item.PortalSpawner.name":"Стварач Портала",
+	"item.PortalPotato.name":"ПотатОС",
+	"item.PortalBlackHole.name":"Минијатурна Црна Рупа",
+	"item.PortalAPG.name":"Постоље за Портал Пушку",
+	"death.moon":"%1$s је усисан на Месец",
+	"item.PortalLFB.name":"Чизма за Дуги Пад",
+	"item.PortalLFBs.name":"Чизме за Дуги Пад",
+	"item.PortalCCube.name":"Пондерисана Супутничка Коцка",
+	"item.PortalCubeD.name":"Вентиалацијски Отвор за Пондерисану Коцку за Скалдиштење",
+	"item.PortalRadio.name":"Радио"
+}
