@@ -14,5 +14,15 @@
 	"item.PortalLFBs.name":"Чизме за Дуги Пад",
 	"item.PortalCCube.name":"Пондерисана Супутничка Коцка",
 	"item.PortalCubeD.name":"Вентиалацијски Отвор за Пондерисану Коцку за Скалдиштење",
-	"item.PortalRadio.name":"Радио"
+	"item.PortalRadio.name":"Радио",
+	"item.PortalFizzler.name":"Мрежа за Ослобађање Материјала (Недовршено! Не Користите!)",
+	"item.PortalTurret.name":"Стражарска Kула",
+	"item.PortalDifferentTurret.name":"Пророчка Kула",
+	"item.PortalDefectiveTurret.name":"Неисправна Kула",
+	"entity.PortalGun.portal_entityturret.name":"Стражарска Kула",
+	"item.PortalAFPItem.name":"Ваздушна Плоча Вере",
+	"item.PortalHEPT.name":"Лансер Пелета Високе Енергије",
+	"item.PortalHEPC.name":"Хватач Пелета Високе Енергије",
+	"death.hep":"%1$s се распао",
+	"item.PortalEEI.name":"Индикатор Електронске Интелигенције"
 }
