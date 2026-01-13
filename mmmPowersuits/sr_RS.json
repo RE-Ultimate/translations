@@ -16,7 +16,7 @@
 	"powerArmorComponent.componentLVCapacitor.name":"Кондензатор Ниског Напона",
 	"powerArmorComponent.componentHVCapacitor.name":"Кондензатор Високог Напона",
 	"powerArmorComponent.componentParachute.name":"Падобран",
-	"powerArmorComponent.componentPlatingBasic.name":"Једноставно Платирање",
+	"powerArmorComponent.componentPlatingBasic.name":"Основно Платирање",
 	"powerArmorComponent.componentPlatingAdvanced.name":"Напредно Платирање",
 	"powerArmorComponent.componentFieldEmitter.name":"Емитер Поља Силе",
 	"powerArmorComponent.componentLaserEmitter.name":"Емитер Холограма",
