@@ -1,1 +1,6 @@
-{}
+{
+	"blockRotaryMacerator.name":"Macéreur rotatif",
+	"blockSingularityCompressor.name":"Compresseur du singularité",
+	"blockCentrifugeExtractor.name":"Extracteur centrifuge",
+	"item.refinedIronDust.name":"Poudre de fer raffiné"
+}
