@@ -65,5 +65,7 @@
 	"config.fabrica.comment":"Mettez fabrica sur \"true\" pour activer les objets craftables.",
 	"tile.extrabiomes.woodslab.fir.name":"Dalle en sapin",
 	"tile.extrabiomes.stairs.redrockbrick.name":"Escaliers en brique de latérite",
-	"tile.extrabiomes.quicksand.name":"Sables mouvants"
+	"tile.extrabiomes.quicksand.name":"Sables mouvants",
+	"itemGroup.extrabiomesTab":"ExtrabiomesXL",
+	"item.extrabiomes.paste.name":"Pâte de cactus"
 }
