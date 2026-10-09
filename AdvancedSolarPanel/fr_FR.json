@@ -1,3 +1,5 @@
 {
-	"blockAdvancedSolarPanel.name":"Panneau solaire avancée"
+	"blockAdvancedSolarPanel.name":"Panneau solaire avancée",
+	"blockUltimateSolarPanel.name":"Panneau solaire hybride ultime",
+	"blockHybridSolarPanel.name":"Panneau solaire hybride"
 }
