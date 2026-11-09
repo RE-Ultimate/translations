@@ -1,9 +1,10 @@
-[![Translation status](https://weblate.sleeping.town/widget/rewind-upsilon/multi-auto.svg)](https://weblate.sleeping.town/engage/rewind-upsilon/)
+# Re:Ultimate translations
 
-# UpsilonLang
+Translations for the Minecraft 1.4.7 mods used by [Re:Ultimate](https://github.com/RE-Ultimate/Re-Ultimate).
+Edit the JSON files and open a pull request here. The original Weblate service is not required.
 
-Dumped translations for all the mods in Rewind Upsilon that lack their own currently-functional localization infrastructure. (Presently, the only mod excluded is BuildCraft.)
+Licenses vary by the original mod. Existing translations are not relicensed.
+See [the original project notes](UPSTREAM.md).
 
-Licenses vary based on the mod.
-
-All contributions must go through [Weblate](https://weblate.sleeping.town/projects/rewind-upsilon/).
+The Git history was converted from SHA-256 to GitHub's SHA-1 format.
+Two unreachable historical snapshots are recorded as explicit empty placeholder commits under `archive/unavailable/*`; the current release translations were imported in full.
